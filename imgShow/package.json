@@ -1,0 +1,21 @@
+{
+  "name": "useful-photo-preview",
+  "version": "1.0.1",
+  "description": "更人性化的vue图片预览插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image",
+    "preview",
+    "picture",
+    "photo",
+    "useful-photo-preview"
+  ],
+  "author": "byxian",
+  "license": "ISC",
+  "dependencies": {
+    "screenfull": "^5.1.0"
+  }
+}
