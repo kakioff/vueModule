@@ -6,7 +6,7 @@
 >
 > 依赖于[screenfull](https://www.npmjs.com/package/screenfull)，会自动安装
 >
-> 项目地址：[github](https://github.com/kakioff/vueModule/tree/main/imgShow)
+> 项目地址：[npm](https://www.npmjs.com/package/useful-photo-preview)
 
 
 
@@ -28,8 +28,6 @@
 
 
 #### 预览
-
-> 如看不到图片，可前往我的[github](https://github.com/kakioff/vueModule/tree/main/imgShow)仓库查看
 
 默认效果：
 
